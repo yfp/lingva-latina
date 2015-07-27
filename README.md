@@ -1,0 +1,2 @@
+Lingva latina slack bot
+=============
